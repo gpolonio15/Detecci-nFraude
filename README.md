@@ -1,0 +1,2 @@
+# Detecci-nFraude
+Detección de fraude de tarjetas de crédito, ontiene características V1 a V28 que son los componentes principales obtenidos por PCA. Vamos a descuidar la característica de tiempo que no sirve para construir los modelos. Las funciones restantes son la función 'Monto' que contiene la cantidad total de dinero que se está transaccionando y la función 'Clase' que contiene si la transacción es un caso de fraude o no.
