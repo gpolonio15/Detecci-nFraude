@@ -15,4 +15,5 @@ Construimos el modelo Support Vector Machine usando el algoritmo 'SVC' y no menc
 
 El siguiente modelo es el modelo de bosque aleatorio que construimos usando el algoritmo 'RandomForestClassifier' y mencionamos que 'max_depth' es 4, tal como lo hicimos para construir el modelo de árbol de decisión. Finalmente, ajustando y almacenando los valores en 'rf_yhat'.
 
+Guillermo Polonio Bascuñana
 
